@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/Restaurant-application/static/css/main.073c9b0a.css",
-    "main.js": "/Restaurant-application/static/js/main.68507f21.js",
+    "main.css": "/Restaurant-application/static/css/main.08328446.css",
+    "main.js": "/Restaurant-application/static/js/main.eda9dab5.js",
     "static/js/787.e2459029.chunk.js": "/Restaurant-application/static/js/787.e2459029.chunk.js",
-    "static/media/logo.svg": "/Restaurant-application/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/masala.jpg": "/Restaurant-application/static/media/masala.f4dd64f4906d42ddcbdb.jpg",
+    "static/media/banner.jpeg": "/Restaurant-application/static/media/banner.05892fe97cce26a5d9e5.jpeg",
+    "static/media/chhola.jpg": "/Restaurant-application/static/media/chhola.a1458ef1370699c23212.jpg",
+    "static/media/paneer.jpg": "/Restaurant-application/static/media/paneer.f04d2c563fe596463e47.jpg",
+    "static/media/idli.jpg": "/Restaurant-application/static/media/idli.dc2d98fda6c7a903c64b.jpg",
+    "static/media/gujrati.jpeg": "/Restaurant-application/static/media/gujrati.77bd2d3baa11e6cf3dcd.jpeg",
+    "static/media/dosa.jpg": "/Restaurant-application/static/media/dosa.5c938f456ea86779ba13.jpg",
     "index.html": "/Restaurant-application/index.html",
-    "main.073c9b0a.css.map": "/Restaurant-application/static/css/main.073c9b0a.css.map",
-    "main.68507f21.js.map": "/Restaurant-application/static/js/main.68507f21.js.map",
+    "main.08328446.css.map": "/Restaurant-application/static/css/main.08328446.css.map",
+    "main.eda9dab5.js.map": "/Restaurant-application/static/js/main.eda9dab5.js.map",
     "787.e2459029.chunk.js.map": "/Restaurant-application/static/js/787.e2459029.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.68507f21.js"
+    "static/css/main.08328446.css",
+    "static/js/main.eda9dab5.js"
   ]
 }
